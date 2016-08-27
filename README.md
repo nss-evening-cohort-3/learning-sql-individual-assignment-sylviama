@@ -3,17 +3,17 @@
 
 ### Instructions
 
-There's 2 options on where/how complete this assignment either using Visual Studio OR In the firefox browser.
+There's 2 options on where/how complete this assignment either using Visual Studio OR Firefox.
 
 
-#### In Firefox (setup)
+#### Firefox Usage
 
 1. Ensure you have the [Chinook Database](http://chinookdatabase.codeplex.com/).
 2. Ensure you installed the [SQLite Manager Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/).
 3 Each answer should be in it's own file. For example, the file contains your answer for question #1 would be `1.sql` and for question #17 the file name would be `17.sql`.
 4. Push up your work, frequently.
 
-#### In Visual Studio
+#### Visual Studio Usage
 * We will be coding against the Chinook database.
 * A sql script for installing can be downloaded from here. https://chinookdatabase.codeplex.com/
 * Once you have downloaded the zip file. You will see several scripts.
