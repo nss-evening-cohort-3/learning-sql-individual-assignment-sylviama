@@ -28,7 +28,7 @@ There's 2 options on where/how complete this assignment either using Visual Stud
 * Once the code has executed successfully, refresh your server in the "Sql Server Object Explorer Window"
 * You should now see the chinook database.
 
-### Exercises
+## Exercises
 
 For each of the following exercises, provide the appropriate query. Yes, even the ones that are expressed in the form of questions. Everything from class and the [Sqlite Documentation](http://www.sqlite.org/) is fair game. No Sharing of Answers.
 
