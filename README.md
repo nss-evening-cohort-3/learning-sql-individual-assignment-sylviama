@@ -1,19 +1,19 @@
-## Learning SQL Through Doing
+# Learning SQL Through Doing
 
 
-### Instructions
+## Instructions
 
 There's 2 options on where/how complete this assignment either using Visual Studio OR Firefox.
 
 
-#### Firefox Usage
+### Firefox Usage
 
 1. Ensure you have the [Chinook Database](http://chinookdatabase.codeplex.com/).
 2. Ensure you installed the [SQLite Manager Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/).
 3 Each answer should be in it's own file. For example, the file contains your answer for question #1 would be `1.sql` and for question #17 the file name would be `17.sql`.
 4. Push up your work, frequently.
 
-#### Visual Studio Usage
+### Visual Studio Usage
 * We will be coding against the Chinook database.
 * A sql script for installing can be downloaded from here. https://chinookdatabase.codeplex.com/
 * Once you have downloaded the zip file. You will see several scripts.
@@ -27,6 +27,8 @@ There's 2 options on where/how complete this assignment either using Visual Stud
 * Click the green arrow to the left of the window to run the sql.
 * Once the code has executed successfully, refresh your server in the "Sql Server Object Explorer Window"
 * You should now see the chinook database.
+
+### Exercises
 
 For each of the following exercises, provide the appropriate query. Yes, even the ones that are expressed in the form of questions. Everything from class and the [Sqlite Documentation](http://www.sqlite.org/) is fair game. No Sharing of Answers.
 
