@@ -1,0 +1,1 @@
+SELECT InvoiceLine.InvoiceLineId, Track.Name AS TrackName FROM InvoiceLine JOIN Track ON InvoiceLine.TrackId=Track.TrackId;
