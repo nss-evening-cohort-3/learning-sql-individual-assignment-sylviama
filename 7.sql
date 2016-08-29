@@ -1,1 +1,1 @@
-SELECT Invoice.*, (Employee.FirstName||" "||Employee.LastName) AS SalesAgentFullName FROM Invoice JOIN Customer ON Customer.CustomerId=Invoice.CustomerId JOIN Employee ON Customer.SupportRepId=Employee.EmployeeId;
+SELECT Invoice.*, (Employee.FirstName||" "||Employee.LastName) AS SalesAgentFullName FROM Invoice JOIN Customer ON Customer.CustomerId=Invoice.CustomerId JOIN Employee ON Customer.SupportRepId==Employee.EmployeeId;
